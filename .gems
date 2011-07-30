@@ -1,1 +1,2 @@
 rails --version=2.3.4
+mysql
